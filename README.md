@@ -53,3 +53,4 @@ ACTIVITY DIAGRAM
 ### RESULT:
 Thus the Student information system project was executed and the output was
 verified.
+
